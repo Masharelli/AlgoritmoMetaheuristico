@@ -1,0 +1,27 @@
+Problema SLP
+
+Pasos para ejecutar nuestro proyecto:
+
+1- Se compila la clase de Java llamada SLP desde consola con el comando 'javac' 
+2- Se ejecuta la clase desde consola con el comando 'java', seguido del nombre de la clase ('SLP')
+y al final se agrega la ruta en donde está almacenada la prueba en TXT.
+
+Formato de entrada para las pruebas desde un TXT:
+
+En el primer renglón se agrega el tamaño del grafo, separado por un espacio el número de nodos,
+seguido de otro espacio el número de aristas.
+
+Durante los siguientes renglones, sin dejar renglones vacios entre el primer renglón y el segundo,
+se agrega la unión de los vertices con su etiqueta númerica, separados por un espacio.
+
+Ejemplo de una instancia de prueba: 
+
+5 5 6
+1 2
+1 4
+2 3
+3 4
+3 5
+4 5
+
+En este ejemplo es un grafo de tamaño 5, con 5 nodos y 6 aristas.
